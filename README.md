@@ -7,9 +7,9 @@
 <!--<p align="right"> <a href="https://twitter.com/kahlhinchi" target="blank"><img src="https://img.shields.io/twitter/follow/kahlhinchi?logo=twitter&style=for-the-badge" alt="kahlhinchi" /></a> </p> -->
 
 
-- 🔭 I’m currently working on **becoming a full-on DBA**
+- 🔭 I’m currently working on **becoming an exceptional DBA**
 
-- 🌱 I’m currently learning **AZURE and MSSQL mostly**
+- 🌱 I’m currently learning **AZURE and MSSQL mostly..other stuff too**
 
 - 👯 I’m looking to collaborate on **DBA stuff**
 
